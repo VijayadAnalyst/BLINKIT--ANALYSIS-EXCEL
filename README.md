@@ -14,6 +14,10 @@ The goal of this project is to analyze Blinkit Sales data to understand patterns
 
 
 Total Sales : The overall revenue generated from all sold items.
+
 Average Sales : The average revenue per sale.
+
 Number of Items : The total count of different items sold.
+
 Average Rating : The average customer rating for items sold.
+
